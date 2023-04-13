@@ -1,13 +1,13 @@
 ### Hello there 👋 
 
 
-I am a Fullstack Javascript Web Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. Specialize in the MERN stack of Software engineering but also experimenting with other technologies and frameworks. 
+I am a Fullstack Javascript Web Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. I specialize in the MERN stack of Software engineering but also experimenting with other technologies and frameworks. 
 
 To grow my skills I engage in a variety of work and study revolving around writing LWC Components for Salesforce, Practicing configuing headless sites to Shopify, WordPress, Sanity, and playing around with AWS, and more.
 
 I am currently looking to develop my skills and increase my capacity for engineering so I freelance in my evenings. 
 
-## Languages and 🛠️ :
+## Languages and 🛠️ 🧰 :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -26,14 +26,14 @@ I am currently looking to develop my skills and increase my capacity for enginee
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
-## Working knowledge of:
+## Working knowledge of 🧠 ⚛️ :
 
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 
 
-## And exploring:
+## And exploring 💫 📖 :
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%23E434AA?style=flat-square&logo=graphQL&logoColor=ffffff)
 ![Amazon AWS EC2](https://img.shields.io/badge/-Amazon%20AWS%20EC2-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
