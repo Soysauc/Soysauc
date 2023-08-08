@@ -21,6 +21,7 @@ I am currently looking to develop my skills and increase my capacity for enginee
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 
 ## Content Management and CRM Systems 📄 💼 :
